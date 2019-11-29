@@ -1,0 +1,7 @@
+gensim==3.7.3
+pandas==0.24.2
+nltk==3.2.5
+sklearn==0.0
+numpy==1.16.4
+keras==2.2.4
+tensorflow-gpu==1.14.0
