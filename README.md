@@ -1,5 +1,8 @@
 **Russian sentiment classification (pos/neg)**
 
-_Embeddings_: FastText Russian VK, BPE, BERT <br>
-_Dataset_: http://study.mokoron.com/ <br>
-_Models_: BiLSTM, CNN
+1. BPE_ru + BiLSTM
+2. FastText VK + BiLSTM
+3. BERT + BNN
+
+BPE_ru encodings: https://nlp.h-its.org/bpemb/
+BERT/BNN: https://github.com/bond005/impartial_text_cls
